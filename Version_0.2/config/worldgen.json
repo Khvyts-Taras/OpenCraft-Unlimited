@@ -1,0 +1,16 @@
+{
+  "frequency": 0.005,
+  "heightScale": 64,
+  "border": 3,
+
+  "mPower": 1.5,
+  "vPower": 1.5,
+  "vScale": 0.25,
+
+  "layers": [
+    { "blockId": 4, "min": -9999, "max": -5   },
+    { "blockId": 3, "min": -6,    "max":  10  },
+    { "blockId": 2, "min": 11,    "max":  16  },
+    { "blockId": 5, "min": 17,    "max":  9999}
+  ]
+}
